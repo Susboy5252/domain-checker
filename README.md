@@ -1,5 +1,3 @@
-# domain-checker
-
 ## 🛡️ DeFi Domain Checker
 
 A high-performance, Go-based security engine designed to protect Web3 frontends from DNS hijacking, unauthorized certificate issuance, and infrastructure compromise. 
